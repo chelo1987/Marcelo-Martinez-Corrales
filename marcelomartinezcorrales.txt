@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<head>
+    <title>Marcelo Martinez Corrales- Página Personal</title>
+</head>
+
+<body>
+
+    <h1>Mi página personal</h1>
+    <p>Nombre completo: <a href="https://marcelomartinez.github.io/Marcelo-Martinez-Corrales/">Marcelo Martinez Corrales</a>
+    <p>Carrera: <a href="https://tusdecisionestehacengrande.ucsp.edu.pe/administracion/">Administración de Negocios</a>
+        <img src="https://admision.ucsp.edu.pe/wp-content/uploads/2023/11/video-new-ucsp-opt.jpeg">
+    <p>Universidad: <a href="https://ucsp.edu.peUniversidad Católica San Pablo" >Universidad Católica San Pablo</a>
+        <img src="https://ucsp.edu.pe/wp-content/uploads/2023/08/San-Pablo-Week-3.jpg">
+
+    <h2>Datos Generales</h2>
+    <p>Edad: 21 años</p>
+    <p>Email: <a href="marcelo.martinezc19@gmail.com">marcelo.martinezc19@gmail.com</a></p>
+    <p>Ubicación: Arequipa</p>
+        <img src="https://enviajes.cl/wp-content/uploads/2022/04/Peru-lugares-Arequipa-Enviajes.jpg">
+<h2>Cursos que estoy cursando</h2>
+    <p><a href="https://www.linkedin.com/in/ecuadrosv/">Introducción de ciencia de la computación - Ernesto Cuadros</a></p>
+    <p>Cálculo en varias variables -César Gallegos</p>
+    <p>Antropologia - Patricia Vela</p>
+    <p>Estadistica y probabilidades - Nancy Quispe</p>
+    <p>Gnoseologia - Kristell Loayza</p>
+    <p>Historia de la cultura occidental - Mario Rommel</p>
+    <p>Analisis Diseño y Gestion de Procesos - Alfredo Salinas</p>
+
+</body>
+
+</html>
